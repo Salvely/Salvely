@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Salvely's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salvely&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/anuraghazr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvely)](https://github.com/anuraghazr/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Salvely)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Salvely&theme=buefy&locale=zh_Hans)](https://git.io/streak-stats)
