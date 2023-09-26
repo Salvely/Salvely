@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Salvely's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salvely&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/anuraghazr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvely)](https://github.com/anuraghazr/github-readme-stats)
 
