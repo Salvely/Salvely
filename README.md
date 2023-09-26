@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Salvely&theme=buefy&locale=zh_Hans)](https://git.io/streak-stats)
 
-<figure><embed src="https://wakatime.com/share/@caa8c386-f533-443c-90cb-309d1d161139/c067bd6c-7eed-412a-8c9f-1814fde0cd3a.svg"></embed></figure>
+![](https://komarev.com/ghpvc/?username=Salvely)
