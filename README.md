@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvely)](https://github.com/anuraghazr/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Salvely&theme=buefy&locale=zh_Hans)](https://git.io/streak-stats)
-
-![Metrics](https://metrics.lecoq.io/Salvely)
