@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Salvely&theme=buefy&locale=zh_Hans)](https://git.io/streak-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Salvely&site=us&theme=WTF&&animation=true&&ext=heatmap&show_rank=true)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Salvely?theme=wtf&font=Kameron&ext=heatmap&show_rank=true)
 
 ![](https://komarev.com/ghpvc/?username=Salvely)
