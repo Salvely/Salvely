@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvely)](https://github.com/anuraghazr/github-readme-stats)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Salvely&theme=buefy&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Salvely?theme=wtf&font=Kameron&ext=activity&show_rank=true)
 
 ![](https://komarev.com/ghpvc/?username=Salvely)
