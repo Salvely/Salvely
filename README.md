@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Welcome+to+my+profile!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
 [![Salvely's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salvely&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/anuraghazr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvely)](https://github.com/anuraghazr/github-readme-stats)
