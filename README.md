@@ -87,7 +87,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
+<!--**Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
@@ -103,3 +103,4 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Salvely?theme=wtf&font=Kameron&ext=activity&show_rank=true)
 
 ![](https://komarev.com/ghpvc/?username=Salvely)
+-->
