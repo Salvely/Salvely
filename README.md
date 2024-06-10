@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
 
@@ -57,19 +57,19 @@ Sunday                   345 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 17 hrs 58 mins      ███████████████████████░░   90.28 % 
-YAML                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Markdown                 17 hrs 46 mins      █████████████████████████   99.95 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-report                   17 hrs 31 mins      ██████████████████████░░░   88.05 % 
-book                     2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+report                   16 hrs 56 mins      ████████████████████████░   95.25 % 
+math                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+book                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  19 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -89,7 +89,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2024 18:41:23 UTC
+ Last Updated on 10/06/2024 18:42:56 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
