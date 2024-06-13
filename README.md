@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-861%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 874.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 276 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,18 +57,22 @@ Sunday                   345 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 16 hrs 4 mins       █████████████████████████   99.94 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Markdown                 12 hrs 16 mins      █████████████████████████   98.98 % 
+TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-report                   15 hrs 15 mins      ████████████████████████░   94.86 % 
-math                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+report                   11 hrs 20 mins      ███████████████████████░░   91.39 % 
+math                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+blog                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Windows                  16 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -86,7 +92,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2024 18:43:05 UTC
+ Last Updated on 13/06/2024 18:43:37 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
