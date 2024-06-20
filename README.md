@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 > 📦 874.2 kB Used in GitHub's Storage 
  > 
+> 🏆 278 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 27 Public Repositories 
@@ -55,20 +57,16 @@ Sunday                   345 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 mins              █████████████░░░░░░░░░░░░   52.03 % 
-TypeScript               6 mins              ███████████░░░░░░░░░░░░░░   45.67 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blog                     14 mins             █████████████████████████   98.32 % 
-report                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+report                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -88,7 +86,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2024 18:43:13 UTC
+ Last Updated on 20/06/2024 18:42:50 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
