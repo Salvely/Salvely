@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 880.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 285 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,22 +57,22 @@ Sunday                   345 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      12 hrs 23 mins      ███████████████░░░░░░░░░░   59.71 % 
-Markdown                 8 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
+TeX                      12 hrs 23 mins      ███████████████░░░░░░░░░░   59.09 % 
+Markdown                 8 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.52 % 
 Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-math                     12 hrs 28 mins      ███████████████░░░░░░░░░░   60.11 % 
-blog                     4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-report                   4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+math                     12 hrs 28 mins      ███████████████░░░░░░░░░░   59.48 % 
+report                   4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+blog                     4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
 
 💻 Operating System: 
-Windows                  20 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +92,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2024 18:44:10 UTC
+ Last Updated on 09/07/2024 18:43:53 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
