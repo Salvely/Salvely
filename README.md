@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 880.2 kB Used in GitHub's Storage 
- > 
-> 🏆 285 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,17 +55,17 @@ Sunday                   345 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 28 mins        █████████████████████████   100.00 % 
+Markdown                 1 hr 35 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blog                     1 hr 20 mins        ███████████████████████░░   90.47 % 
-report                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+blog                     1 hr 20 mins        █████████████████████░░░░   84.57 % 
+report                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -87,7 +85,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2024 18:44:12 UTC
+ Last Updated on 19/07/2024 18:44:08 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
