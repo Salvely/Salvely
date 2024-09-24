@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 > 📦 891.3 kB Used in GitHub's Storage 
  > 
-> 🏆 665 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -86,7 +84,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2024 18:47:52 UTC
+ Last Updated on 24/09/2024 18:48:30 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
