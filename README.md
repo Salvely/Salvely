@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C038%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C039%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 891.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 665 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,16 +57,19 @@ Sunday                   360 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 40 mins        █████████████████████████   100.00 % 
+Markdown                 1 hr 50 mins        ███████████████████████░░   91.88 % 
+Git Config               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-journey                  1 hr 40 mins        █████████████████████████   100.00 % 
+journey                  1 hr 49 mins        ███████████████████████░░   91.55 % 
+CLRS                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 
 💻 Operating System: 
-Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -84,7 +89,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2024 18:48:08 UTC
+ Last Updated on 26/09/2024 18:48:04 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
