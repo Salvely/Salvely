@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 > 📦 753.0 kB Used in GitHub's Storage 
  > 
-> 🏆 587 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 41 Public Repositories 
@@ -57,17 +55,17 @@ Sunday                   334 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 36 mins       █████████████████████████   100.00 % 
+Markdown                 5 hrs 34 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-report                   8 hrs 6 mins        ████████████████████████░   94.17 % 
-journey                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+report                   5 hrs 4 mins        ███████████████████████░░   91.01 % 
+journey                  30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 
 💻 Operating System: 
-Windows                  8 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -87,7 +85,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2024 18:48:26 UTC
+ Last Updated on 16/10/2024 18:48:13 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
