@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C080%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C083%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,17 +57,17 @@ Sunday                   336 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 26 mins       █████████████████████████   100.00 % 
+Markdown                 5 hrs 24 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-report                   2 hrs 10 mins       ██████████████████████░░░   88.62 % 
-journey                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+journey                  3 hrs 6 mins        ██████████████░░░░░░░░░░░   57.59 % 
+report                   2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.41 % 
 
 💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -87,7 +87,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2024 18:45:43 UTC
+ Last Updated on 21/10/2024 18:48:46 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
