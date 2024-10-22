@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C083%20hrs%2016%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -30,46 +28,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                508 commits         ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-🌆 Daytime                998 commits         ████████████░░░░░░░░░░░░░   48.33 % 
-🌃 Evening                546 commits         ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Tuesday                  311 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Wednesday                295 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Thursday                 379 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Friday                   194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Saturday                 250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Sunday                   336 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 5 hrs 24 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 24 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-journey                  3 hrs 6 mins        ██████████████░░░░░░░░░░░   57.59 % 
-report                   2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.41 % 
-
-💻 Operating System: 
-Windows                  5 hrs 24 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -87,7 +45,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2024 18:48:46 UTC
+ Last Updated on 22/10/2024 18:48:02 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
