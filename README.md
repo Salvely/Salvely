@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%2012%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 753.1 kB Used in GitHub's Storage 
- > 
-> 🏆 591 Contributions in the Year 2024
+> 📦 754.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,6 +28,48 @@ Here are some ideas to get you started:
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                508 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+🌆 Daytime                998 commits         ████████████░░░░░░░░░░░░░   48.31 % 
+🌃 Evening                547 commits         ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Tuesday                  311 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Wednesday                296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Thursday                 379 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Friday                   194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Saturday                 250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Sunday                   336 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 7 hrs 47 mins       █████████████████████████   98.43 % 
+Org                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 55 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+journey                  5 hrs 2 mins        ████████████████░░░░░░░░░   63.66 % 
+report                   2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   36.01 % 
+math-Journey             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+
+💻 Operating System: 
+Windows                  7 hrs 55 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -45,7 +87,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2024 18:48:02 UTC
+ Last Updated on 23/10/2024 18:48:09 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
