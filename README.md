@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,19 +57,20 @@ Sunday                   336 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 36 mins       █████████████████████████   98.66 % 
-Org                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Markdown                 8 hrs 22 mins       █████████████████████████   98.42 % 
+Org                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-journey                  6 hrs 26 mins       █████████████████░░░░░░░░   66.19 % 
-report                   3 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.54 % 
-math-Journey             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+journey                  6 hrs 10 mins       ██████████████████░░░░░░░   72.44 % 
+report                   2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+math-Journey             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  9 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -89,7 +90,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2024 18:48:41 UTC
+ Last Updated on 25/10/2024 18:47:38 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
