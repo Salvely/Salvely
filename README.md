@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2032%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -28,47 +26,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                508 commits         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-🌆 Daytime                998 commits         ████████████░░░░░░░░░░░░░   47.96 % 
-🌃 Evening                562 commits         ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Tuesday                  311 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Wednesday                297 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Thursday                 379 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Friday                   194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Saturday                 264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Sunday                   336 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TOML                     9 mins              ████████████████████████░   96.76 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-
-🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-blog                     10 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -86,7 +43,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 18:45:08 UTC
+ Last Updated on 03/11/2024 18:45:59 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
