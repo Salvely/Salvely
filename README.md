@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,15 +57,16 @@ Sunday                   336 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 28 mins             █████████████████████████   98.71 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Markdown                 29 mins             █████████████████████████   98.74 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
 VS Code                  29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-oldblog2                 18 mins             ████████████████░░░░░░░░░   64.94 % 
-blog                     10 mins             █████████░░░░░░░░░░░░░░░░   35.06 % 
+oldblog2                 18 mins             ████████████████░░░░░░░░░   63.09 % 
+blog                     10 mins             █████████░░░░░░░░░░░░░░░░   34.06 % 
+journey                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 💻 Operating System: 
 Windows                  29 mins             █████████████████████████   100.00 % 
@@ -88,7 +89,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Salvely/Salvely/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2024 18:47:38 UTC
+ Last Updated on 14/11/2024 18:49:20 UTC
 <!--END_SECTION:waka-->
 <!-- ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&width=435&height=70&lines=Hi!+I'm+Wen+Gao.+Nice+to+see+you!)](https://git.io/typing-svg)
 
