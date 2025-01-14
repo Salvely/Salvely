@@ -23,4 +23,4 @@ jobs:
           plugin_leetcode_user: Salvely
           plugin_leetcode_sections: solved, skills, recent
           plugin_posts: yes
-          plugin_posts_source: salvely.github.io
+          plugin_posts_source: https://salvely.github.io/
