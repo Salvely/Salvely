@@ -22,9 +22,6 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_user: Salvely
           plugin_leetcode_sections: solved, skills, recent
-          plugin_posts: yes
-          plugin_posts_source: dev.to
-          plugin_posts_user: Salvely
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
