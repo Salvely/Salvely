@@ -6,4 +6,6 @@ I'm a graduate student from Shanghai Jiao Tong University. <!--For a detailed, r
 ## Recent Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome](/blog/2018/07/01/welcome.html)
+- [Post with Header Image](/blog/2018/06/01/header-image.html)
 <!-- BLOG-POST-LIST:END -->
